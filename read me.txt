@@ -1,0 +1,14 @@
+//Simple News Blog Website
+
+
+1. sql file is in the database folder.
+create database name news and choose the news.sql file 
+
+2. Admin pannal details:
+    username = "bilal";
+    password = "123";
+3. user logig details
+
+   username = "bilal";
+   password = "123";
+ 
